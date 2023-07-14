@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raypan2022
-- 👀 I’m interested in skateboarding, ping pong, tennis, soccer, astronomy, blockchain technology, gaming (I'm playing Demon's Souls right now), and the stock market.
+- 👀 I’m interested in skateboarding, ping pong, tennis, soccer, astronomy, blockchain technology, gaming (Red Dead, God of War, Spiderman), and the stock market.
 - 🌱 I’m currently learning web development!
 - 🍔 My favourite food are peking duck, ramen, and dim sum.
 
