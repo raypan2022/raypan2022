@@ -2,7 +2,7 @@
 - 👀 I’m interested in history, skateboarding, astronomy, blockchain technology, and gaming.
 - 🌱 I’m currently learning web development!
 - 🍔 My favourite food are peking duck, ramen, and dim sum.
-- 🎮 I'm playing Persona 5 right now!
+- 🎭 I'm playing Persona 5 right now!
 
 <!---
 raypan2022/raypan2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
