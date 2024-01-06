@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raypan2022
 - 👀 I’m interested in history, skateboarding, astronomy, blockchain technology, and gaming.
-- 🌱 I’m currently learning web development!
+- 🌱 I’m currently learning backend!
 - 🍔 My favourite food are peking duck, ramen, and dim sum.
 - 🎭 I'm playing Persona 5 right now!
 
